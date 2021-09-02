@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "todoitm.Common": {
+      "commandName": "Project"
+    }
+  }
+}
