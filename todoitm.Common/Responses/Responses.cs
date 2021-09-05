@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace todoitm.Common.Responses
+﻿namespace todoitm.Common.Responses
 {
     public class Responses
     {
